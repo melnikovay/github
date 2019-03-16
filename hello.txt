@@ -1,1 +1,2 @@
 print("hello people")
+print("привет Паша")
